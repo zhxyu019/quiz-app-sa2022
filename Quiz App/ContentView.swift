@@ -13,7 +13,8 @@ struct ContentView: View {
         QuizQuestions(title: "How old is Ryder?", optionA: "ten", optionB: "eleven", optionC: "twelve", optionD: "thirteen"),
         QuizQuestions(title: "What does Mayor Goodway own in Paw Patrol?", optionA: "chicken", optionB: "dog", optionC: "rabbit", optionD: "snake"),
         QuizQuestions(title: "Who is the police pup always on the case?", optionA: "Chase", optionB: "Zuma", optionC: "Marshall", optionD: "Rocky"),
-        QuizQuestions(title: "Who is the fire pup?", optionA: "Marshall", optionB: "Zuma", optionC: "Rocky", optionD: "Chase")
+        QuizQuestions(title: "Who is the fire pup?", optionA: "Marshall", optionB: "Zuma", optionC: "Rocky", optionD: "Chase"),
+        QuizQuestions(title: "What is chase allergic to?", optionA: "Cats and feathers", optionB: "hunans", optionC: "birds", optionD: "rabbits and fur")
         
     ]
     
